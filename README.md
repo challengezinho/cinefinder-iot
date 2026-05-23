@@ -32,5 +32,4 @@ Filmes com maior score aparecem primeiro na página de recomendações.
 2. Importe o app apexcinefinder_app.sql
 3. Acesse a página Recomendações IA
 
-## Link do vídeo
-[YouTube — em breve]
+## [Link do vídeo](https://www.youtube.com/watch?v=ygnsNpCPhME)
